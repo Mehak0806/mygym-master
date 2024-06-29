@@ -1,2 +1,2 @@
-## my gym-master
+## MYGYM-MASTER
 ## by Mehak
